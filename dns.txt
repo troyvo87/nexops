@@ -1,3 +1,4 @@
+https://www.lifewire.com/free-and-public-dns-servers-2626062
 #Level31	
 209.244.0.3	209.244.0.4
 #Verisign2
